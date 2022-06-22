@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "splicing",
+      "points": [
+        [
+          828.9719626168223,
+          427.58878504672896
+        ],
+        [
+          973.8317757009345,
+          603.2897196261682
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\splicing01\\8.jpg",
+  "imageData": null,
+  "imageHeight": 757,
+  "imageWidth": 1200
+}
