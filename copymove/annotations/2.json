@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "copymove",
+      "points": [
+        [
+          1021.4953271028037,
+          590.7102803738318
+        ],
+        [
+          1197.196261682243,
+          798.1869158878504
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\copymove01\\2 .jpg",
+  "imageData": null,
+  "imageHeight": 800,
+  "imageWidth": 1200
+}

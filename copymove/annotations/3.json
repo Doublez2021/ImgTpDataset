@@ -1,0 +1,42 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "copymove",
+      "points": [
+        [
+          434.2412451361868,
+          140.03112840466926
+        ],
+        [
+          476.6536964980545,
+          184.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "copymove",
+      "points": [
+        [
+          384.04669260700393,
+          125.24513618677042
+        ],
+        [
+          419.8443579766537,
+          164.54474708171207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\copymove01\\3.jpg",
+  "imageData": null,
+  "imageHeight": 336,
+  "imageWidth": 500
+}
