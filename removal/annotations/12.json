@@ -1,0 +1,26 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "removal",
+      "points": [
+        [
+          202.05128205128204,
+          335.8974358974359
+        ],
+        [
+          333.46153846153845,
+          604.4871794871794
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\removal01\\12.jpg",
+  "imageData": null,
+  "imageHeight": 607,
+  "imageWidth": 412
+}
